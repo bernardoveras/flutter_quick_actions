@@ -1,30 +1,5 @@
-# flutter_quick_actions
+# Shimmer Effect e Pull to Refresh no Flutter
 
-A new Flutter project.
+Material da aula #03 do [canal do youtube](https://youtu.be/2CP3gi_4W7I)!
 
-## Getting Started
-
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+- Nesta aula, foi abordado o package [quick_actions](https://pub.dev/packages/quick_actions), usado para criar ações rápidas e melhorar a acessibilidade do seu app.
